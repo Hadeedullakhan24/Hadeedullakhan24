@@ -183,7 +183,7 @@ https://github.com/Hadeedullakhan24
 
 📧 Email
 
-your-email@example.com
+hadeedullakhan24@gmail.com
 
 ---
 
