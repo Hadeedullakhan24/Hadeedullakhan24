@@ -97,7 +97,7 @@ An AI-powered agricultural assistant designed to help farmers with intelligent c
 
 **Technologies**
 
-Python • LLMs • RAG • FastAPI • Streamlit
+Python • LLMs • RAG • FastAPI • Frontend-Backend langauges
 
 🔗 Repository:
 https://github.com/Hadeedullakhan24/AI_powered_farming_assistant_for_kerala_farmers
