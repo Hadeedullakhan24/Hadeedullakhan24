@@ -99,6 +99,9 @@ An AI-powered agricultural assistant designed to help farmers with intelligent c
 
 Python • LLMs • RAG • FastAPI • Streamlit
 
+🔗 Repository:
+https://github.com/Hadeedullakhan24/AI_powered_farming_assistant_for_kerala_farmers
+
 ---
 
 ## 📚 Adaptive RAG
